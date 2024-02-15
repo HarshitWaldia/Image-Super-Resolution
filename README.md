@@ -1,4 +1,4 @@
-## IMPLEMENTATION OF ENHANCED SUPER RESOLUTION GAN (generative adversarial network )
+## IMPLEMENTATION OF ENHANCED SUPER RESOLUTION GAN (generative adversarial network)
 
 ## ESRGAN (Enhanced SRGAN) [[BasicSR](https://github.com/xinntao/BasicSR)] [[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)]
 
