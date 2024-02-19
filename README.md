@@ -26,6 +26,6 @@ This implementation focuses specifically on ESRGAN, providing an easy-to-use too
 
 4. **View Output:**
     - Explore the result folder to view the enhanced output images.
-
+<br>
 Feel free to experiment and enhance your images with ESRGAN!
 
