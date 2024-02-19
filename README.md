@@ -1,11 +1,34 @@
-## IMPLEMENTATION OF ENHANCED SUPER RESOLUTION GAN (generative adversarial network)
+# Enhanced Super Resolution GAN (ESRGAN) Implementation
 
-## ESRGAN (Enhanced SRGAN) [[BasicSR](https://github.com/xinntao/BasicSR)] [[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)]
+## Welcome!
 
-## Find All The Necessary Documentation : https://github.com/xinntao/ESRGAN
+Welcome to the ESRGAN Implementation repository! This project implements the Enhanced Super Resolution GAN (ESRGAN) along with related projects such as BasicSR and Real-ESRGAN. Credits for the original projects go to:
 
-Step > 1. Download the model and codes from [GoogleDrive](https://drive.google.com/file/d/1l0gBRMqhVLpL_-7R7aN-q-3hnv5ADFSM/view?usp=sharing)<br>( model 'models/RRDB_ESRGAN_x4.pth' is already uploaded in this implementation )<br>
-Step > 2. Put LR input images in the `LR` folder<br>
-Step > 3. Run `python test.py`<br>
-Step > 4. Open result folder for the output images <br>
-Step > 5. The results on my computer are: Perceptual index: **1.9777** and RMSE: **15.304**
+- [BasicSR](https://github.com/xinntao/BasicSR)
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [ESRGAN Documentation](https://github.com/xinntao/ESRGAN)
+
+This implementation focuses specifically on ESRGAN, providing an easy-to-use tool for enhancing image resolution.
+
+## How to Use
+
+### Steps:
+
+1. **Download Model and Code:**
+    - Begin by downloading the model and codes from [GoogleDrive](https://drive.google.com/file/d/1l0gBRMqhVLpL_-7R7aN-q-3hnv5ADFSM/view?usp=sharing).
+    (Note: The model 'models/RRDB_ESRGAN_x4.pth' is already uploaded in this implementation)
+
+2. **Prepare LR Input Images:**
+    - Once downloaded, place your low-resolution (LR) input images in the `LR` folder.
+
+3. **Run the Code:**
+    - Execute `python test.py` to start the enhancement process.
+
+4. **View Output:**
+    - Explore the result folder to view the enhanced output images.
+
+5. **Evaluate Results:**
+    - Check out the results, including Perceptual Index and Root Mean Square Error (RMSE), to assess the quality of the enhancement.
+
+Feel free to experiment and enhance your images with ESRGAN!
+
