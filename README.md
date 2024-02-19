@@ -27,8 +27,5 @@ This implementation focuses specifically on ESRGAN, providing an easy-to-use too
 4. **View Output:**
     - Explore the result folder to view the enhanced output images.
 
-5. **Evaluate Results:**
-    - Check out the results, including Perceptual Index and Root Mean Square Error (RMSE), to assess the quality of the enhancement.
-
 Feel free to experiment and enhance your images with ESRGAN!
 
