@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Welcome to the ESRGAN Implementation repository! This project implements the Enhanced Super Resolution GAN (ESRGAN) along with related projects such as BasicSR and Real-ESRGAN. Credits for the original projects go to:
+Welcome to the ESRGAN Implementation repository! This project implements the Enhanced Super Resolution GAN (ESRGAN). Credits for the original projects go to:
 
 - [BasicSR](https://github.com/xinntao/BasicSR)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
