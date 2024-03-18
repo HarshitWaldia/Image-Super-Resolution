@@ -16,7 +16,7 @@ This implementation focuses specifically on ESRGAN, providing an easy-to-use too
 
 1. **Download Model and Code:**
     - Begin by downloading the model and codes from [GoogleDrive](https://drive.google.com/file/d/1l0gBRMqhVLpL_-7R7aN-q-3hnv5ADFSM/view?usp=sharing).
-    (Note: The model 'models/RRDB_ESRGAN_x4.pth' is already uploaded in this implementation)
+    (Note: The model 'models/RRDB_ESRGAN_x4.pth' is already being used in this implementation)
 
 2. **Prepare LR Input Images:**
     - Once downloaded, place your low-resolution (LR) input images in the `LR` folder.
